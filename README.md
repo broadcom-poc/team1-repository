@@ -16,3 +16,4 @@ More change to follow
 
 US161 implemeting the new features
 * Reviwing the changes completed
+* Draft design finalized
