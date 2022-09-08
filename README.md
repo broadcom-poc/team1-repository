@@ -13,3 +13,7 @@ US151 doc complete
 US157 documentation updated
 
 More change to follow
+
+US161 implemeting the new features
+* Reviwing the changes completed
+* Draft design finalized
