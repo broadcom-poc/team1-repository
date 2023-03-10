@@ -18,4 +18,4 @@ US161 implemeting the new features
 
 
 US167 upgrade complete
-* Review complete.
+* Review complete
